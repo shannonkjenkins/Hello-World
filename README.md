@@ -25,4 +25,5 @@ I am learning how to use Github because of this Pro Prep class. I know how to us
 ## Files Used
 
 [View My Resume](https://github.com/shannonkjenkins/Hello-World/blob/main/Shannon%20Jenkins_RESUME_fall%202026.pdf)
+
 [View My LinkedIn](https://www.linkedin.com/in/shannonkjenkins6/)
