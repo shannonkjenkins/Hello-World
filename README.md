@@ -3,7 +3,7 @@ My first practice repository
 
 ## Table of Contents 
 
-- [Project Title](#Project-Title)
+- [Hello World](#Project-Title)
 - [Description](#Description)
 - [Tools Used](#Tools-Used)
 - [Files Used](#Files-Used)
