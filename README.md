@@ -25,4 +25,6 @@ I am learning how to use Github because of this Pro Prep class. I know how to us
 
 [View My Resume](https://github.com/shannonkjenkins/Hello-World/blob/main/Shannon%20Jenkins_RESUME_fall%202026.pdf)
 
+[View My BAIS Project](https://github.com/shannonkjenkins/Hello-World/blob/main/Kaggle%20Sales%20(2).xlsx)
+
 [View My LinkedIn](https://www.linkedin.com/in/shannonkjenkins6/)
