@@ -24,4 +24,4 @@ I am learning how to use Github because of this Pro Prep class. I know how to us
 
 ## Files Used
 
-[My Resume](Shannon Jenkins_RESUME_fall 2026.pdf)
+[View my Resume](Shannon-Jenkins-RESUME-fall-2026.pdf)
