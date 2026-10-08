@@ -19,7 +19,7 @@ This is my first repository. I don't have much project experience will all the t
 
 ## Tools Used
 
-I am learning how to use Github because of this Pro Prep class. I know how to use most Microsoft applications but these coding apps I don't know anything about. 
+I used a PDF document and Microsoft Excel to upload my files. I am learning how to use Github because of this Pro Prep class. I know how to use most Microsoft applications but these coding apps I don't know anything about. 
 
 ## Files Used
 
