@@ -7,7 +7,6 @@ My first practice repository
 - [Description](#Description)
 - [Tools Used](#Tools-Used)
 - [Files Used](#Files-Used)
-- [How to Run Program](#How-to-Run-Program)
 - [Additional Information](#Additional-Information)
 
 ## Hello World
