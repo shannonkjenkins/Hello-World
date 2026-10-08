@@ -24,6 +24,4 @@ I am learning how to use Github because of this Pro Prep class. I know how to us
 
 ## Files Used
 
-$ git add .
-$ git commit -m "Add Exsisting File"
-$ git push origin main
+[Click here to view my file](Shannon-Jenkins_RESUME_fall-2026.pdf)
