@@ -24,4 +24,4 @@ I am learning how to use Github because of this Pro Prep class. I know how to us
 
 ## Files Used
 
-No files used. 
+[My Resume](Shannon Jenkins_RESUME_fall 2026.pdf)
